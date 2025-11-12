@@ -1,9 +1,9 @@
 # Week_6
-# 🔍 Word Frequency Counter – Java Editions
+# Word Frequency Counter – Java Editions
 
 ---
 
-## ⚙️ How to Compile & Run
+## How to Compile & Run
 
 ```bash
 javac TwentyNine.java
@@ -16,7 +16,7 @@ java ThirtyTwo pride-and-prejudice.txt
 
 ```
 
-## 📁 Files Overview
+## Files Overview
 
 | Filename       | Style                 | Summary                                                              |
 |----------------|-----------------------|----------------------------------------------------------------------|
