@@ -1,14 +1,6 @@
 # Week_6
 # 🔍 Word Frequency Counter – Java Editions
 
-## 📁 Files Overview
-
-| Filename       | Style                 | Summary                                                              |
-|----------------|-----------------------|----------------------------------------------------------------------|
-| `TwentyNine.java` | Style #29 (Actors)     | Message-passing objects in their own threads ("free agents")         |
-| `Thirty.java`     | Style #30 (Dataspaces) | Uses shared queues for communication between concurrent workers      |
-| `ThirtyTwo.java`  | Style #32 (Map-Reduce) | Breaks data into chunks, applies map, regroup, and reduce logic      |
-
 ---
 
 ## ⚙️ How to Compile & Run
@@ -23,6 +15,16 @@ java Thirty pride-and-prejudice.txt
 java ThirtyTwo pride-and-prejudice.txt
 
 ```
+
+## 📁 Files Overview
+
+| Filename       | Style                 | Summary                                                              |
+|----------------|-----------------------|----------------------------------------------------------------------|
+| `TwentyNine.java` | Style #29 (Actors)     | Message-passing objects in their own threads ("free agents")         |
+| `Thirty.java`     | Style #30 (Dataspaces) | Uses shared queues for communication between concurrent workers      |
+| `ThirtyTwo.java`  | Style #32 (Map-Reduce) | Breaks data into chunks, applies map, regroup, and reduce logic      |
+
+
 
 # Program Descriptions
 
